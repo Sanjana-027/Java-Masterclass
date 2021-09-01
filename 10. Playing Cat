@@ -3,4 +3,4 @@ public class PlayingCat {
         int upperLimit = summer ? 45 : 35;
         return temperature >= 25 && temperature <= upperLimit;
     }
-
+}
