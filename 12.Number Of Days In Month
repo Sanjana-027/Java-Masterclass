@@ -1,4 +1,4 @@
-public class NumberInWord {
+public class NumberInWord 
     // write your code here
     public static void printNumberInWord(int number){
         switch (number) {
