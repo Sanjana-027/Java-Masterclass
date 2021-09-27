@@ -1,4 +1,4 @@
-public class Floor 
+public class Floor {
     private double width;
     private double length;
  
