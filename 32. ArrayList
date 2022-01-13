@@ -1,0 +1,21 @@
+
+import java.util.*;
+
+
+public class List {
+
+
+	public static void main(String[] args)
+	{
+		
+		List<String> al = new ArrayList<String>();
+	
+		
+		al.add("car");
+		al.add("car");
+		al.add("car");
+
+		
+		System.out.println(al);
+	}
+}
